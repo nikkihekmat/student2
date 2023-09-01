@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Daily Plan 
-description: This shows planning, notes from hacks, and a log of my daily activites.
+description: August 16th-18th
 type: plans
 courses: { compsci: {week: 0} }
 ---

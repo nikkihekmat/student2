@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Daily Plan
-description: For August 21st-25th
+description: August 21st-25th
 type: plans
 courses: { compsci: {week: 1} }
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 Title: Nikki Hekmat's Blog
 ---
 

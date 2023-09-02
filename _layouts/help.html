@@ -1,55 +1,148 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en-US">
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<header><header class="site-header">
 
-  {{ content | markdownify }}
+  <div id="header" style = "position:relative; left:10px; top:-40px;">
+    <nav>
+      <ul>
+        <li class="fork"><a href="/Nikki's Blog/">Home</a></li>
+        <li class="fork"><a href="/Nikki's Blog/timebox">TimeBox</a></li>
+        <li class="fork"><a href="/Nikki's Blog/blogs">Blogs</a></li>
+        <li class="title"><a href="/Nikki's Blog/help">Help</a></li>
+        <li class="title"><a href="https://github.com/nikkihekmat/student2#readme">View On GitHub</a></li>
+      </ul>
+    </nav>
+  </div><!-- end header -->
+</header></header>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="/Nikki's%20Blog/assets/css/style.css?v=c2801afb27fe417d29ed1fbbab22f80939e5dbe0" media="screen">
+    <link rel="stylesheet" href="/Nikki's%20Blog/assets/css/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="/Nikki's%20Blog/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
+
+    <script src="/Nikki's%20Blog/assets/js/modernizr.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/Nikki's%20Blog/assets/js/headsmart.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Help | Nikki’s Blog</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Help" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Currently stressed about college apps" />
+<meta property="og:description" content="Currently stressed about college apps" />
+<link rel="canonical" href="http://localhost:4200/Nikki's%20Blog/help" />
+<meta property="og:url" content="http://localhost:4200/Nikki's%20Blog/help" />
+<meta property="og:site_name" content="Nikki’s Blog" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Help" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Currently stressed about college apps","headline":"Help","url":"http://localhost:4200/Nikki's%20Blog/help"}</script>
+<!-- End Jekyll SEO tag -->
 
 
-  {% if site.paginate %}
-    {% assign rawposts = paginator.posts %}
-  {% else %}
-    {% assign rawposts = site.posts %}
-  {% endif %}
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Nikki's%20Blog/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Nikki's Blog</h1>
+            <h2>Currently stressed about college apps</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+
+  <div id="no-downloads">
+    <span class="inner">
+    </span>
+    </div>
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        <div class="home"><h1 class="page-heading">Help</h1>
+
+
+
+  
 
   <!-- Hide posts if front matter flag hide:true -->
-  {% assign posts = ''|split:'' %}
-  {% for post in rawposts %}
-    {% if post.type == "help" %}
-      {% assign posts = posts|push:post%}
-    {% endif %}
-  {% endfor %}
+  
+  
 
   <!-- Sort posts by rank, then date -->
-  {% assign grouped_posts = posts | group_by: "sticky_rank" | sort: "name", "last" %}
-  {% assign sticky_posts = ''|split:'' %}
-  {% assign non_sticky_posts = '' | split:'' %}
+  
+  
+  
 
 
-  {% for gp in grouped_posts %}
-    {%- if gp.name == "" -%}
-      {% assign non_sticky_posts = gp.items | sort: "date" | reverse %}
-    {%- else %}
-      {% assign sticky_posts = sticky_posts | concat: gp.items %}
-    {%- endif -%}
-  {% endfor %}
+  
 
   <!-- Assemble final sorted posts array -->
-  {% assign sticky_posts = sticky_posts | sort: "sticky_rank", "last" %}
-  {% assign posts = sticky_posts | concat: non_sticky_posts %}
+  
+  <ul class="post-list"><li><div class="Box box-shadow-medium rounded-1 col-12">
+  <div class="col-8 d-table-cell p-3">
+      <h3>
+        <a class="post-link" href="/Nikki's%20Blog/2023/08/26/GitHub_Sync.html">
+          GitHub Overview
+        </a>
+      </h3>
+  </div>
+</div></li><li><div class="Box box-shadow-medium rounded-1 col-12">
+  <div class="col-8 d-table-cell p-3">
+      <h3>
+        <a class="post-link" href="/Nikki's%20Blog/2023/08/16/Tools_Help.html">
+          Tool References
+        </a>
+      </h3>
+  </div>
+</div></li></ul>
+      </section>
 
-  {%- if posts.size > 0 -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-        <li>
-        {%- include help_list.html -%}
-        </li>
-      {%- endfor -%}
-    </ul>
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            
+              <p>this project by <a href="https://github.com/nikkihekmat">nikkihekmat</a> can be found on <a href="https://github.com/nikkihekmat/student2">GitHub</a></p>
+            
+            
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
 
-  {%- endif -%}
+    </div>
+  </body>
+</html>

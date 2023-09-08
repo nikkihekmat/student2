@@ -11,11 +11,6 @@ Title: Nikki Hekmat's Blog
         padding-top: 100px;
     }
     </style>
-    </style>
-
-
- </style>
-
 
 ## Fun Facts
 - I have a twin sister.

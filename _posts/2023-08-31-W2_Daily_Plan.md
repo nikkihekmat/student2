@@ -11,14 +11,13 @@ courses: { compsci: {week: 2} }
 ## PBL Unit 1 / Week 2
 
 ### Monday
-- 
+- still experiencig difficulty with Mac cooperation in installing software
 
 ### Tuesday
-- began installing tools and software (VSCode, Homebrew, Terminal)
+- 
 
 ### Wednesday
-- Starting to struggle a lot with downloading software
-- consulted my pair and other students in the class as to why my computer isn't advancing
+- 
 
 ### Thursday
 - experiment with index.html and default.html to add a menu and fix layout/header spacing (so that it's not overlapping with the other text)

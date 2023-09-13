@@ -11,7 +11,7 @@ courses: {'compsci': {'week': 3}}
 
 ## Live Review 2
 - Briefly show use of theme in blog and personalization of timebox (i.e. my notes) and daily plans
-- Will show experiments and learnings in Python, including Jupyter Notebook(s) as Hacks/Tangible
+- Will show experiments and learnings in Python, including Jupyter Notebook(s) as Hacks/Tangible (i.e. the different games)
 
 ## Pair Showcase
 - Will showcase my blog and the different pages, explaining how I troubleshooted and figured out how to fix weird problems with layout on my own (through much exploration/research)

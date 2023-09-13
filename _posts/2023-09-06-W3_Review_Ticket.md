@@ -21,6 +21,4 @@ courses: {'compsci': {'week': 3}}
 - Will use this as a time to demo key technicals described in hacks
 - Will show personalized use of Python, HTML, and Linux Bash in Pair Showcase Notebook with partner
 
-
-
-Bring tickets and tangibles into GitHub pages repo on your Time Box page.
+- Leave time for follow up questions

@@ -19,6 +19,8 @@ courses: {'compsci': {'week': 3}}
     - My minor goals for the past 2 weeks: accomplishing baby steps to fix technical issues
 - Technical progress: added complexity to home page (more images) and Time Box notes
 - Will use this as a time to demo key technicals described in hacks
+    - use of jupyter notebook
+    - personilzation with python
 - Will show personalized use of Python, HTML, and Linux Bash in Pair Showcase Notebook with partner
 
 - Leave time for follow up questions

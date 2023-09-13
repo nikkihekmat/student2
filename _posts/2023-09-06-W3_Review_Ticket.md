@@ -17,7 +17,7 @@ courses: {'compsci': {'week': 3}}
 - Will showcase my blog and the different pages, explaining how I troubleshooted and figured out how to fix weird problems with layout on my own (through much exploration/research)
     - Faced unique problems, used my resources (internet, partner, teacher, extra time after school and office hours)
     - My minor goals for the past 2 weeks: accomplishing baby steps to fix technical issues
-- Technical progress: added complexity to home page (more images) and Time Box notes
+- Technical progress: added complexity to Time Box and with projects
 - Will use this as a time to demo key technicals described in hacks
     - use of jupyter notebook
     - personilzation with python

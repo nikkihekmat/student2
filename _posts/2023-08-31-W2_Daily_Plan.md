@@ -14,10 +14,10 @@ courses: { compsci: {week: 2} }
 - still experiencig difficulty with Mac cooperation in installing software
 
 ### Tuesday
-- 
+- still experiencig difficulty with Mac cooperation in installing software 
 
 ### Wednesday
-- 
+- still experiencig difficulty with Mac cooperation in installing software
 
 ### Thursday
 - experiment with index.html and default.html to add a menu and fix layout/header spacing (so that it's not overlapping with the other text)

@@ -11,8 +11,11 @@ courses: { compsci: {week: 4} }
 ## PBL Unit 2 / Week 4
 
 ### Monday
-- finally fixed blog after consulting Mr. Lopez again!
-- gained more insight on the layout portion of each page and how its different lables affect the appearance of the blog
+- Me:
+    - finally fixed blog after consulting Mr. Lopez again!
+    - gained more insight on the layout portion of each page and how its different lables affect the appearance of the blog
+- Class Work:
+    - 1.1-1.4 Team Test, Perform Hacks on Lists/Dictionaries
 
 ### Tuesday
 - catch up on all things I couldn't do because my site was down
@@ -25,6 +28,10 @@ courses: { compsci: {week: 4} }
 - find scrum team, appoint Scrum Master
 
 ### Thursday
-
+- Cathch up
+    - Still need to find a pair for scrum team
+    - Team Test
 
 ### Friday
+- Python/Flask
+- Continue catch up and set plan for the weekend

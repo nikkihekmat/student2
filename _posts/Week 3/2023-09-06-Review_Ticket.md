@@ -2,7 +2,7 @@
 comments: True
 layout: post
 title: Review Ticket for 9/13 Delayed Pair Showcase
-description: Includes an outline of the showcase and what my partner and I will be presenting.
+description: This is all that I accomplished this week.
 type: tangibles
 courses: {'compsci': {'week': 3}}
 ---

@@ -1,9 +1,9 @@
 ---
 comments: True
 layout: post
-title: Review Ticket Draft
+title: Pair Showcase Review Ticket Draft
 description: Draft of Pair Showcase Outline
-type: tangibles
+type: hacks
 courses: {'compsci': {'week': 3}}
 ---
 

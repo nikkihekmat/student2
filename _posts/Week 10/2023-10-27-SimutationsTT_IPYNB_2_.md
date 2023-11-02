@@ -4,7 +4,7 @@ comments: False
 layout: post
 title: Simulations TT
 type: hacks
-courses: {'compsci': {'week': 11}}
+courses: {'compsci': {'week': 10}}
 ---
 
 # Simulations:

@@ -6,6 +6,7 @@ description: my daily plan for the week
 type: plans
 courses: {'compsci': {'week': 10}}
 ---
+
 ### Monday
 - complete hacks on Data Compression blog
 ### Tuesday

@@ -5,6 +5,8 @@ hide: true
 layout: post
 type: help
 title: GitHub Overview
+courses: {'csp': {'week': 0}}
+type: tangibles
 ---
 
 ## References

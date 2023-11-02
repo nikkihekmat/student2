@@ -5,7 +5,7 @@ layout: post
 title: Sample IPYNB w/ table,code
 description: Example!!! This sample shows markdown cell, markdown table, markdown code fencing, and code cells.
 courses: {'compsci': {'week': 1}}
-type: tangibles
+type: hacks
 ---
 
 ## Learning College Board Pseudo Code

@@ -3,7 +3,7 @@ layout: post
 toc: True
 title: 2.2 Data Compression, Images
 description: Lab will perform alterations on images, manipulate RGB values, and reduce the number of pixels.  College Board requires you to learn about Lossy and Lossless compression. This is using the Python Pandas module.  Python is a primary language for data science and is useful for backend operations like analyzing and storing data.
-courses: {'csp': {'week': 7}}
+courses: {'csp': {'week': 5}}
 categories: hacks
 ---
 

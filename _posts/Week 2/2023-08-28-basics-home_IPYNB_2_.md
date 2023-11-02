@@ -2,7 +2,7 @@
 layout: post
 title: Web Programming Basics
 description: An introduction to key topics in Web Programming
-courses: {'csse': {'week': 6}, 'csp': {'week': 5}}
+courses: {'csse': {'week': 6}, 'csp': {'week': 2}}
 type: ccc
 permalink: /basics/home
 courses: { compsci: {week: 2} }

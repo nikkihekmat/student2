@@ -3,7 +3,7 @@ comments: true
 layout: post
 title: Trimester 1 Reflection
 description: memories and learnings, positive accomplishments, things i intend to learn in future trimesters, room for growth
-type: hacks
+type: tangibles 
 courses: { compsci: {week: 11} }
 ---
 

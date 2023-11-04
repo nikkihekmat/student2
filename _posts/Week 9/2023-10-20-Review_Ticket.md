@@ -8,4 +8,5 @@ courses: {'compsci': {'week': 9}}
 ---
 
 ### Summary of Accomplishments
-- 
+
+- finished establishing a database for our project 

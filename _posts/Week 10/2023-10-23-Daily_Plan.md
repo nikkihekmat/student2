@@ -7,14 +7,7 @@ type: plans
 courses: {'compsci': {'week': 10}}
 ---
 
-### Monday
-- complete hacks on Data Compression blog
-### Tuesday
-- Work Day, Ideation and Planning Tools
-### Wednesday
-- Data Abstraction Student Lessons (our presentation)
-### Thursday
-- Algorithms Student Lessons
-### Friday
-- Work Day, Ideation Video Due Monday
+### Plan for the Week
 
+- NUMBER ONE PRIORITY is get more progress on project
+- take notes on the team teaches for the week 

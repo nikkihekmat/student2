@@ -6,6 +6,7 @@ description: my daily plan for the week
 type: plans
 courses: {'compsci': {'week': 11}}
 ---
+
 ### Plan for the Week
 
 - prep for finals

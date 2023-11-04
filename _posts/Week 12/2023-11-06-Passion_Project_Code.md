@@ -4,7 +4,7 @@ layout: post
 title: Passion Project Code
 description: the code that I contributed to my group's passion project
 type: hacks
-courses: {'compsci': {'week': 11}}
+courses: {'compsci': {'week': 12}}
 ---
 
 ### <center> Genre Information Page </center>

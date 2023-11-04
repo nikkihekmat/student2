@@ -7,3 +7,6 @@ type: tangibles
 courses: {'compsci': {'week': 5}}
 ---
 
+### Summary of Accomplishments 
+
+- learned about binary counting 

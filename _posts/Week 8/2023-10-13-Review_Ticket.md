@@ -8,4 +8,5 @@ courses: {'compsci': {'week': 8}}
 ---
 
 ### Summary of Accomplishments
-- 
+
+- learned about iteration and algorithms  

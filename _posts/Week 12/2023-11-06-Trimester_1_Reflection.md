@@ -19,5 +19,5 @@ courses: { compsci: {week: 12} }
 
 ## Things I Intend to Learn in Future Trimesters & Room for Growth
 
-- I intend to learn how to adapt to a different srum team
+- I intend to learn how to adapt to a different scrum team
 - I intend to learn more coding knowledge and build off of the things I learned from the student lessons

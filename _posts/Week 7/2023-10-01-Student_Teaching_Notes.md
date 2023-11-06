@@ -12,7 +12,9 @@ courses: {'compsci': {'week': 7}}
 - This page is more of a summary of each lesson because I learn better by knowing the general information of something and then seeing the examples in depth first hand. For me all the content in the student lessons was valuable to me, so I can't really pull apart the most important things to remember.
 
 ## Algorithms
-- can type in standard mathematical operations with some twists 
+- can type in standard mathematical operations with some twists
+
+
 
 ## Boolean If
 - true/false operation 

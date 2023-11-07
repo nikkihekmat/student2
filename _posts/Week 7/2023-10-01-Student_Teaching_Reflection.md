@@ -7,7 +7,7 @@ type: tangibles
 courses: {'compsci': {'week': 7}}
 ---
 
-## Reflection 
+## Student Teaching Reflection 
 
 We spent a lot of time on our Student Teach--a collective **3 hour Zoom call over the weekend** plus outside time planning and polishing our presentation and homework assignment. According to the original instructions of the assignment, we planned out the period well.
 

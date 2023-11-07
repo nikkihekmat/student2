@@ -14,7 +14,31 @@ courses: {'compsci': {'week': 7}}
 ## Algorithms
 - can type in standard mathematical operations with some twists
 
+    #### Psuedo code example:
 
+SET largestNumber to 0
+Get next number in the list
+    FOR number in numberList
+        IF number is larger than largestNumber THEN set largestNumber to number
+        IF there are more numbers in list, THEN go back to step 2
+        END IF
+        END IF
+    END FOR
+PRINT largestNumber
+
+   #### Actual code for comparison:
+
+```
+largestNumber = 0
+
+numberList = [5, 8, 3, 12, 7, 10]
+
+for number in numberList:
+    if number > largestNumber:
+        largestNumber = number
+
+print("Largest number:", largestNumber)
+```
 
 ## Boolean If
 - true/false operation 

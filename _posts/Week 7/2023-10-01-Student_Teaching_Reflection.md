@@ -9,7 +9,7 @@ courses: {'compsci': {'week': 7}}
 
 ## Reflection 
 
-We spent a lot of time on our Student Teach--a collective 3 hour Zoom call over the weekend plus outside time planning and polishing our presentation and homework assignment. According to the original instructions of the assignment, we planned out the period well.
+We spent a lot of time on our Student Teach--a collective **3 hour Zoom call over the weekend** plus outside time planning and polishing our presentation and homework assignment. According to the original instructions of the assignment, we planned out the period well.
 
 The actual flow of our presentation was great. We made sure to fit in time for popcorn hacks, questions, and if we needed to slow down the explanation of any concept. We included thorough examples, which led to better comprehension for our audience. 
 
